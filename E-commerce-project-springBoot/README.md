@@ -74,8 +74,13 @@ ADMIN Module (http://localhost:8080/admin)
 
 - **Star++** ⭐  if you  find helpful.
 
-Preview
+Preview : 
+
+
 <img width="1851" height="786" alt="239837677-24c4451b-43a6-4c23-a78a-786eab4303b0" src="https://github.com/user-attachments/assets/5981df56-8929-4960-9416-a1e67018c21e" />
+<img width="1920" height="770" alt="239837701-93c1baeb-326c-450f-867e-a883900a6644" src="https://github.com/user-attachments/assets/57d351ad-e2d9-4382-9405-77955a4b0586" />
+
+
 
 
 
